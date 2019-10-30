@@ -6,7 +6,8 @@ layout: datasci
 
 * [1장 데이터과학 소개](./notebooks/DataSci01-DataScience_Intro.html)
 * [2장 통합개발환경 준비](./notebooks/DataSci02-IDE_Intro.html)
-* [3장 파이썬 기본자료형 1부](./notebooks/DataSci03-DataTypes_Part1.html)
+* [3장 파이썬 기본자료형 1부: 정수, 부동소수점, 불리언](./notebooks/DataSci03-DataTypes_Part1.html)
+* [4장 파이썬 기본자료형 2부: 문자열 다루기](./notebooks/DataSci04-DataTypes-Part2.html)
 * [5장 프로그래밍 실행 흐름 제어: 조건문과 반복문](./notebooks/DataSci05-Control_Flow.html)
 
 <!---
