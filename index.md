@@ -6,6 +6,7 @@ layout: datasci
 
 * [1장 데이터과학 소개](./Notebooks/DataSci01-DataScience_Intro.html)
 * [2장 통합개발환경 준비](./Notebooks/DataSci02-IDE_Intro.html)
+* [3장 파이썬 기본자료형](./Notebooks/DataSci03-DataTypes_Part1.html)
 
 <!---
 There should be whitespace between paragraphs.
